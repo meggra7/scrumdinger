@@ -62,7 +62,6 @@
 				046E7E112A56264A00B036BF /* Views */,
 				049F74992A5618750051F67F /* Models */,
 				045930DA2A549D5800A7177A /* ScrumdingerApp.swift */,
-				045930DC2A549D5800A7177A /* MeetingView.swift */,
 				045930DE2A549D5A00A7177A /* Assets.xcassets */,
 				045930E02A549D5A00A7177A /* Preview Content */,
 			);
@@ -81,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				046E7E122A56266400B036BF /* CardView.swift */,
+				045930DC2A549D5800A7177A /* MeetingView.swift */,
 				045BAF232A6432B0000D7ABA /* TrailingIconLabelStyle.swift */,
 			);
 			path = Views;
